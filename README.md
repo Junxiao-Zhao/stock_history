@@ -37,9 +37,11 @@ Finally, retrieve each stocks' daily history, sort by the trade dates, store the
 Results:
 
 In the history folder:
+
 <img width="502" alt="Screenshot 2022-05-20 143625" src="https://user-images.githubusercontent.com/78573538/169467858-2234e503-412a-4da9-acba-aa8effa58155.png">
 
 In 000001.SZ.csv:
+
 <img width="589" alt="Screenshot 2022-05-20 143733" src="https://user-images.githubusercontent.com/78573538/169468129-5e72ac60-cdba-4248-a752-352a16859df3.png">
 
 P.S.
