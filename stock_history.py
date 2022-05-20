@@ -1,7 +1,7 @@
 import tushare as ts, pandas as pd, os
 
 #Please enter your token (minimum 120 credits required for this code)
-pro = ts.pro_api("14beec506af6057d5a5795e6ea344b974783b2e0bd4b7679bffcc843")
+pro = ts.pro_api("Please enter your own token hear: ")
 
 #all the listed stocks' codes and list dates
 listed_stocks = pro.stock_basic(exchange='', list_status='L', fields='ts_code, list_date')
